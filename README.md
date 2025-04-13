@@ -3,8 +3,6 @@
 ## 🧠 Project Objective  
 The aim of this project is to analyze Ola’s 2024 ride booking data to extract valuable insights on booking trends, cancellation behavior, payment preferences, and customer engagement. The findings will help Ola improve its operational efficiency and customer experience.
 
----
-
 ## 📁 Dataset Used  
 
 📄 **File Name:** `booking.csv` 
@@ -41,8 +39,6 @@ The aim of this project is to analyze Ola’s 2024 ride booking data to extract 
 - Most users traveled **medium-range distances**, indicating urban or semi-urban commute behavior.  
 - Customer satisfaction is generally high, with **average ratings above 4**, though slightly lower from drivers.
 
----
-
 ## 🧾 Final Conclusion  
 
 To improve Ola’s ride experience and operational efficiency:
@@ -50,8 +46,6 @@ To improve Ola’s ride experience and operational efficiency:
 - Address key reasons for driver-side cancellations (e.g., vehicle or location issues).
 - Focus more on retaining high-value customers through loyalty programs.
 - Promote smoother payment options like UPI to streamline checkout and improve convenience.
-
----
 
 ## ⚙️ Tools Used  
 - Microsoft Excel  
