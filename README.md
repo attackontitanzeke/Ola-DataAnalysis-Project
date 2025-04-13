@@ -30,3 +30,8 @@ The aim of this project is to analyze Ola’s 2024 ride booking data to extract 
 ## 📊 Dashboard Preview  
 
 📎 **View Dashboard PDF:** [`Ola Data Analysis.pdf`](./Ola%20Data%20Analysis.pdf)
+
+![p1](https://github.com/user-attachments/assets/a11df823-ad10-4433-8b34-43969dc34e5f)
+
+
+
