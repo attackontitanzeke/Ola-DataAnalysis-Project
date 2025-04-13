@@ -1,8 +1,7 @@
 # Ola Data Analysis Project 🚗📊
 
 ## 🧠 Project Objective  
-The goal of this project is to analyze Ola's customer ride data to extract insights into user behavior, cancellation reasons, peak booking periods, and top-performing customer segments.  
-These insights will help the Ola team improve service quality, reduce cancellations, and tailor strategies for better customer engagement and operational efficiency.
+The aim of this project is to analyze Ola’s 2024 ride booking data to extract valuable insights on booking trends, cancellation behavior, payment preferences, and customer engagement. The findings will help Ola improve its operational efficiency and customer experience.
 
 ---
 
@@ -12,12 +11,22 @@ These insights will help the Ola team improve service quality, reduce cancellati
 
 ## 📌 Key Questions (KPIs) Answered  
 
-**What is the trend of bookings over time?**  
-**What is the breakdown of booking statuses?**  
-**Which payment methods contribute most to revenue?**
-**What are the most common reasons for cancellations?**  
-**Who are the top 5 customers based on booking value?**
-**What is the distribution of ride distances?**  
-**What are the average customer and driver ratings over time?**  
-**What is the cancellation rate?**  
+**1.What is the trend of bookings over time?**  
+**2.What is the breakdown of booking statuses?**  
+**3.Which payment methods contribute most to revenue?**
+**4.What are the most common reasons for cancellations?**  
+**5.Who are the top 5 customers based on booking value?**
+**6.What is the distribution of ride distances?**  
+**7.What are the average customer and driver ratings over time?**  
+**8.What is the cancellation rate?**  
 
+## 🔄 Process Followed  
+
+- Cleaned and structured the dataset in Excel & Power Query  
+- Removed blank/null values and handled missing ratings
+- Visualized all metrics in an interactive Power BI report.
+- Exported the final dashboard as a PDF for easy sharing.
+
+## 📊 Dashboard Preview  
+
+📎 **View Dashboard PDF:** [`Ola Data Analysis.pdf`](./Ola%20Data%20Analysis.pdf)
