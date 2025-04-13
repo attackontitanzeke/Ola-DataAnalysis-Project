@@ -31,7 +31,9 @@ SQL was used to validate and extract KPIs by creating views and answering key bu
 7. **All UPI-based payment rides**  
 8. **Average customer rating per vehicle type**  
 9. **Total booking value of all successful rides**  
-10. **List of incomplete rides with reasons**  
+10. **List of incomplete rides with reasons**
+
+📄 **File Name:** `Ola SQL Analysis.sql` 
 
 ## 🔄 Process Followed  
 
