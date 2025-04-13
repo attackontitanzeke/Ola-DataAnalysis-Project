@@ -18,6 +18,21 @@ The aim of this project is to analyze Ola’s 2024 ride booking data to extract 
 **7.What are the average customer and driver ratings over time?**  
 **8.What is the cancellation rate?**  
 
+## 🧮 SQL Analysis Summary  
+
+SQL was used to validate and extract KPIs by creating views and answering key business questions:
+
+1. **Successful Bookings**  
+2. **Average ride distance per vehicle type**  
+3. **Total rides cancelled by customers**  
+4. **Top 5 customers with highest ride count**  
+5. **Rides cancelled by drivers due to personal/car issues**
+6. **Maximum and minimum driver ratings for Prime Sedan**  
+7. **All UPI-based payment rides**  
+8. **Average customer rating per vehicle type**  
+9. **Total booking value of all successful rides**  
+10. **List of incomplete rides with reasons**  
+
 ## 🔄 Process Followed  
 
 - Cleaned and structured the dataset in Excel & Power Query  
@@ -50,5 +65,6 @@ To improve Ola’s ride experience and operational efficiency:
 ## ⚙️ Tools Used  
 - Microsoft Excel  
 - Power Query  
-- Power BI 
+- Power BI
+- MySQL (Workbench / CLI)
 
