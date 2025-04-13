@@ -9,14 +9,14 @@ The aim of this project is to analyze Ola’s 2024 ride booking data to extract 
 
 ## 📌 Key Questions (KPIs) Answered  
 
-**1.What is the trend of bookings over time?**  
-**2.What is the breakdown of booking statuses?**  
-**3.Which payment methods contribute most to revenue?**
-**4.What are the most common reasons for cancellations?**  
-**5.Who are the top 5 customers based on booking value?**
-**6.What is the distribution of ride distances?**  
-**7.What are the average customer and driver ratings over time?**  
-**8.What is the cancellation rate?**  
+1. **What is the trend of bookings over time?**
+2. **What is the breakdown of booking statuses?**
+3. **Which payment methods contribute most to revenue?**
+4. **What are the most common reasons for cancellations?**  
+5. **Who are the top 5 customers based on booking value?**
+6. **What is the distribution of ride distances?**  
+7. **What are the average customer and driver ratings over time?**  
+8. **What is the cancellation rate?**  
 
 ## 🧮 SQL Analysis Summary  
 
